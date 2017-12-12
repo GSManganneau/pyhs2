@@ -19,3 +19,4 @@ See example.py for an example of how to use it.
 Please log all issues/new feature requests under the issues.
 
 Enjoy
+# pyhs2
